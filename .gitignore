@@ -1,3 +1,4 @@
 .DS_Store
 files/*
-metastore_db
+metastore_db/*
+.ipynb_checkpoints/*
