@@ -33,3 +33,7 @@ Machine Learning and Featurization Tasks:
 Cluster Tasks:
 * Create a multi node cluster on Databricks or Amazon Web Services (EMR or EC2) to run Spark tasks
 * Perform computations and machine learning tasks on all the data efficiently
+
+
+
+The full report can be found here: https://github.com/brydenfogelman/reddit-comment-analysis/blob/master/reddit-comment-analysis-report.pdf
